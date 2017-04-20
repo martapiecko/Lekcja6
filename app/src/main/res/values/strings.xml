@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Telefons</string>
-    <string name="tele">Lista telefonów:</string>
+    <string name="tele_lista">Lista telefonów:</string>
+    <string name="play">Graj</string>
+    <string name="stop">Stop</string>
     <string-array name="telephones">
         <item>Samsung Galaxy S7</item>
         <item>Iphone 6</item>
